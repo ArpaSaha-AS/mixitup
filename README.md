@@ -1,2 +1,2 @@
 # mixitup
-Great repository names are short and memorable. Need inspiration? How about curly-spork? 
+ https://arpasaha-as.github.io/mixitup/
